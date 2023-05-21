@@ -1,5 +1,0 @@
-push constant 10
-shiftleft
-push constant 40
-shiftright
-eq
